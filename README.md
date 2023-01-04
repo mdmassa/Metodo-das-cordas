@@ -1,4 +1,4 @@
-# Programaçao em R - Método das Cordas (Ou Posição Falsa)
+# Programação em R - Método das Cordas (Ou Posição Falsa)
 _Este repositório conta com um programa em R para demonstrar o método das cordas ou posição falsa (normal)._
 
 O método das cordas, também conhecido como método da posição falsa, é um método numérico utilizado para encontrar raízes de uma equação matemática. Ele é chamado de "método das cordas" porque ele funciona por meio da divisão iterativa da área sob a curva da equação, da mesma forma que uma corda pode ser usada para dividir a área de um terreno em duas partes.
