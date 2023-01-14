@@ -1,3 +1,5 @@
+%Atividade de Cálculo Numérico UNIFESSPA
+
 clear;
 clc;
 printf("==========================================================\n");
