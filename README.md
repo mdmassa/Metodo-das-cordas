@@ -1,3 +1,71 @@
+<details>
+<summary>🇺🇲 Click to read this in English:</summary>
+
+# Programming in R - String Method (Or False Position)
+_This repository has a program in R to demonstrate the method of strings or false position (normal)._
+
+The string method, also known as the false position method, is a numerical method used to find roots of a mathematical equation. It is called the "string method" because it works by iteratively dividing the area under the curve of the equation, in the same way that a string can be used to divide the area of land into two parts.
+
+The false position method is generally used when other methods, such as the bisection method, are not efficient or are not appropriate for the equation in question. It is especially useful for finding roots of nonlinear equations because it can approximate the root more accurately than other methods. Furthermore, the false position method is relatively simple to implement and can be easily adapted to solve a wide variety of mathematical problems.
+
+Equations used in the program:
+
+* Equation 01:
+
+![Screenshot_20230103_135201](https://user-images.githubusercontent.com/16453928/210403135-3ce4abe0-b942-443f-a020-4d77029139b0.png)
+
+* Equation 02:
+
+![Screenshot_20230103_135405](https://user-images.githubusercontent.com/16453928/210403509-70b943b8-b4d9-4f04-8785-adf41e28d0ec.png)
+
+* Equation 03:
+
+![Screenshot_20230103_135446](https://user-images.githubusercontent.com/16453928/210403632-cddad50a-c38d-4bf3-9583-9ecb84262c27.png)
+
+
+</br>
+
+## How to use the program
+
+1. Choosing the equation.
+
+In this code there are three examples of predefined equations. To calculate the root of a specific equation just remove the comment symbol (represented at the beginning of a line by the character `%`). Remembering that they can be replaced by any other equation.
+
+![Screenshot_20230103_140101](https://user-images.githubusercontent.com/16453928/210404688-57ec5903-a240-45e6-9f88-59c27b458a5d.png)
+
+
+2. Calculating the root of the chosen equation and obtaining the results (For the three predefined equation examples).
+
+Now, after choosing the desired equation or writing your own, run the code in some R language program, such as Octave. When executing the code it will request the following information:
+
+* For Equation 01 use the following values for variables `a`, `b` and `error`:
+
+![image](https://user-images.githubusercontent.com/16453928/210406828-e57f4871-aef4-4303-9820-a84713d8133b.png)
+
+The results must be:
+
+![image](https://user-images.githubusercontent.com/16453928/210407239-a17ca265-0185-4df7-9f4f-7e773d6b0a2d.png)
+
+
+* For Equation 02 use the following values for variables `a`, `b` and `error`:
+
+![image](https://user-images.githubusercontent.com/16453928/210407876-8dba3e12-bb99-4138-a85f-417f90ec6f23.png)
+
+The results must be:
+
+![image](https://user-images.githubusercontent.com/16453928/210408081-c2f4b056-844b-4f57-af61-9eca474e4fdf.png)
+
+
+* For Equation 03 use the following values for variables `a`, `b` and `error`:
+
+![image](https://user-images.githubusercontent.com/16453928/210408326-72d8d6b9-a6de-4fa0-98ae-e09986cb197f.png)
+
+The results must be:
+
+![image](https://user-images.githubusercontent.com/16453928/210408437-6454f566-77a5-41d5-8580-0cb61676e1c7.png)
+
+</details>
+
 # Programação em R - Método das Cordas (Ou Posição Falsa)
 _Este repositório conta com um programa em R para demonstrar o método das cordas ou posição falsa (normal)._
 
